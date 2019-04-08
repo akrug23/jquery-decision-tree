@@ -1,0 +1,22 @@
+{
+  "name": "jquery-decision-tree",
+  "version": "1.0.0",
+  "description": "Question based Decision Tree jQuery Plugin",
+  "main": "js/tree.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrug23/jquery-decision-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrug23/jquery-decision-tree/issues"
+  },
+  "homepage": "https://github.com/akrug23/jquery-decision-tree#readme"
+}
